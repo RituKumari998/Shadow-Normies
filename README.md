@@ -221,4 +221,3 @@ shadow_normies/
 ## License
 
 MIT
-# Shadow-Normies
